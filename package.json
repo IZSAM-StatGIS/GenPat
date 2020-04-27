@@ -1,0 +1,46 @@
+{
+  "name": "genpatgis",
+  "version": "1.0.0",
+  "description": "Spatially Enabled Phylogenetic Tree viewer",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html --no-cache --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessiodl/GenPat.git"
+  },
+  "keywords": [
+    "Bioinformatics",
+    "GIS",
+    "CRN",
+    "IZSAM",
+    "Phylocanvas",
+    "OpenLayers"
+  ],
+  "author": "Alessio Di Lorenzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessiodl/GenPat/issues"
+  },
+  "homepage": "https://github.com/alessiodl/GenPat#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.4.1",
+    "bootstrap-select": "^1.13.16",
+    "chartjs": "^0.3.24",
+    "chartjs-plugin-colorschemes": "^0.4.0",
+    "chartjs-plugin-zoom": "^0.7.5",
+    "chroma-js": "^2.1.0",
+    "jquery": "^3.5.0",
+    "moment": "^2.24.0",
+    "ol": "^6.3.1",
+    "phylocanvas": "^2.8.1",
+    "popper.js": "^1.16.1"
+  }
+}

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alessiodl/GenPat.git"
+    "url": "git+https://github.com/IZSAM-StatGIS/GenPat.git"
   },
   "keywords": [
     "Bioinformatics",
@@ -22,9 +22,9 @@
   "author": "Alessio Di Lorenzo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alessiodl/GenPat/issues"
+    "url": "https://github.com/IZSAM-StatGIS/GenPat/issues"
   },
-  "homepage": "https://github.com/alessiodl/GenPat#readme",
+  "homepage": "https://github.com/IZSAM-StatGIS/GenPat#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "sass": "^1.26.5"

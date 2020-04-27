@@ -2,7 +2,7 @@
   "name": "genpatgis",
   "version": "1.0.0",
   "description": "Spatially Enabled Phylogenetic Tree viewer",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build --public-url . index.html --no-cache --no-source-maps"
